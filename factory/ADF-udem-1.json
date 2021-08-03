@@ -1,0 +1,9 @@
+{
+	"name": "ADF-udem-1",
+	"location": "ukwest",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f3e606be-8690-4cea-b5c8-694084a52acc",
+		"tenantId": "4b18ab9a-3765-4abe-ac7c-0e0d398afd4f"
+	}
+}
